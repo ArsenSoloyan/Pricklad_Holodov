@@ -7,3 +7,12 @@ C:\Users\Student\source\repos\Soloyan_PZ_1\obj\Debug\Soloyan_PZ_1.Properties.Res
 C:\Users\Student\source\repos\Soloyan_PZ_1\obj\Debug\Soloyan_PZ_1.csproj.GenerateResource.cache
 C:\Users\Student\source\repos\Soloyan_PZ_1\obj\Debug\Soloyan_PZ_1.exe
 C:\Users\Student\source\repos\Soloyan_PZ_1\obj\Debug\Soloyan_PZ_1.pdb
+C:\Users\Студент\source\repos\Soloyan_PZ_1\obj\Debug\Soloyan_PZ_1.csprojAssemblyReference.cache
+C:\Users\Студент\source\repos\Soloyan_PZ_1\obj\Debug\Soloyan_PZ_1.Form1.resources
+C:\Users\Студент\source\repos\Soloyan_PZ_1\obj\Debug\Soloyan_PZ_1.Properties.Resources.resources
+C:\Users\Студент\source\repos\Soloyan_PZ_1\obj\Debug\Soloyan_PZ_1.csproj.GenerateResource.cache
+C:\Users\Студент\source\repos\Soloyan_PZ_1\obj\Debug\Soloyan_PZ_1.exe
+C:\Users\Студент\source\repos\Soloyan_PZ_1\obj\Debug\Soloyan_PZ_1.pdb
+C:\Users\Студент\source\repos\Soloyan_PZ_1\bin\Debug\Soloyan_PZ_1.exe.config
+C:\Users\Студент\source\repos\Soloyan_PZ_1\bin\Debug\Soloyan_PZ_1.exe
+C:\Users\Студент\source\repos\Soloyan_PZ_1\bin\Debug\Soloyan_PZ_1.pdb

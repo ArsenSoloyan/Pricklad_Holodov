@@ -35,11 +35,13 @@
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.textBox5 = new System.Windows.Forms.TextBox();
             this.textBox6 = new System.Windows.Forms.TextBox();
+            this.label7 = new System.Windows.Forms.Label();
+            this.textBox7 = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(72, 113);
+            this.button2.Location = new System.Drawing.Point(77, 146);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(111, 34);
             this.button2.TabIndex = 0;
@@ -63,7 +65,7 @@
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(111, 13);
             this.label5.TabIndex = 2;
-            this.label5.Text = "Введите значение b:";
+            this.label5.Text = "Введите значение d:";
             // 
             // label6
             // 
@@ -72,7 +74,7 @@
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(111, 13);
             this.label6.TabIndex = 3;
-            this.label6.Text = "Введите значение c:";
+            this.label6.Text = "Введите значение b:";
             // 
             // textBox4
             // 
@@ -98,9 +100,28 @@
             this.textBox6.TabIndex = 6;
             this.textBox6.Text = "4";
             // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(14, 107);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(110, 13);
+            this.label7.TabIndex = 7;
+            this.label7.Text = "Введите значение y:";
+            // 
+            // textBox7
+            // 
+            this.textBox7.Location = new System.Drawing.Point(135, 107);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.Size = new System.Drawing.Size(91, 20);
+            this.textBox7.TabIndex = 8;
+            this.textBox7.Text = "5";
+            // 
             // Form1
             // 
             this.ClientSize = new System.Drawing.Size(538, 394);
+            this.Controls.Add(this.textBox7);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.textBox6);
             this.Controls.Add(this.textBox5);
             this.Controls.Add(this.textBox4);
@@ -130,6 +151,8 @@
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.Label label7;
+        private System.Windows.Forms.TextBox textBox7;
     }
 }
 
